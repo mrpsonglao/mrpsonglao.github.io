@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/mrpsonglao/mrpsonglao.github.io/master/tsne-umap-projector/features.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mrpsonglao/mrpsonglao.github.io/master/tsne-umap-projector/labels.tsv"
     }
   ]
 }
