@@ -6,7 +6,7 @@
         112120,
         1024
       ],
-      "tensorPath": "https://raw.githubusercontent.com/mrpsonglao/mrpsonglao.github.io/master/tsne-umap-projector/features.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/mrpsonglao/mrpsonglao.github.io/master/tsne-umap-projector/pooling_features.tsv",
       "metadataPath": "https://raw.githubusercontent.com/mrpsonglao/mrpsonglao.github.io/master/tsne-umap-projector/labels.tsv"
     }
   ]
